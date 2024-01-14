@@ -3,6 +3,6 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://deadlyhifi.com",
+  site: "https://astronought.pages.dev/",
   integrations: [sitemap()],
 });

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://deadlyhifi.com/sitemap-index.xml
+Sitemap: https://astronought.pages.dev/sitemap-index.xml
